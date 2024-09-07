@@ -1,0 +1,12 @@
+.dual1{
+    width: 100vh;
+    height: auto;
+    position: relative;
+    top: -50px;
+    margin: 0;
+    padding: 0;
+}
+
+.dav{
+    background-color: red;  
+}

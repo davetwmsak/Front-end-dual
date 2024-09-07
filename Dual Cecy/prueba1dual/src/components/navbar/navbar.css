@@ -1,0 +1,40 @@
+.NavBar{
+    width: 100vw;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    top: -270px;
+}
+
+.NavBar img{
+    width: 100px;   
+}
+
+.NavBar a{
+    color: white;
+    padding-left: 30px;
+    position: relative;
+    top: -30px;
+}
+
+.NavBar input{
+    position: relative;
+    height: 40px;
+    top: -30px;
+    left: 50px;
+    border-radius: 20px;
+    background-color: rgb(80, 79, 79);
+}
+
+.NavBar button{
+    position: relative;
+    top: -30px;
+    left: 390px;
+    background-color: rgb(80, 79, 79);
+}
+
+.NavBar button:hover{
+    transition: all ease-in .3s;
+    background-color: green;
+    color: black;
+}
